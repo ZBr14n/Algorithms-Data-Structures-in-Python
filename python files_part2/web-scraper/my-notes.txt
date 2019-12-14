@@ -1,0 +1,7 @@
+how do i get the contents[2,3,5] and store them in separate array indices?
+if index==2 then arr[i] = contents[2] ; if index == 5 then...
+
+As we loop thru the indices, we also storing the indices that we do want into a separate array
+for each row in the table.
+
+
